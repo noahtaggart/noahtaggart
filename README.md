@@ -4,7 +4,7 @@
 
 <img width="35%" align="right" alt="Github" src= "https://user-images.githubusercontent.com/96712524/156795265-2f344373-bb82-47f2-8031-f1326e7cfe9d.gif" />
 
-I'm a former music teacher turned software developer. I'm passionate about problem solving, music, and movies!
+Former music teacher turned software developer. I'm passionate about puzzles/problem solving, music, and movies!
 
 
 - 🔭 I’m currently a student at Nashville Software School
