@@ -1,4 +1,4 @@
-# noahtaggart
+# Noah Taggart
 ### Hi there 👋
 
 
