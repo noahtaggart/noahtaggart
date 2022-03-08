@@ -1,5 +1,5 @@
 # Noah Taggart
-### Hi there 👋
+### Hello there 👋
 
 
 <img width="35%" align="right" alt="Github" src= "https://user-images.githubusercontent.com/96712524/156795265-2f344373-bb82-47f2-8031-f1326e7cfe9d.gif" />
